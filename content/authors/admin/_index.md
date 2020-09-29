@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Industrial Systems Engineering
     institution: National University of Singapore
-    url:"http://www.nus.edu.sg/"
+    url: "http://www.nus.edu.sg/"
     year: 2018 - 2022
   - course: BSc in Computer Science and Technology
     institution: Xidian University
