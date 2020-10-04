@@ -31,7 +31,7 @@ education:
   - course: PhD in Industrial Systems Engineering
     institution: National University of Singapore
     # url: "http://www.nus.edu.sg/"
-    year: 2018 - 2022
+    year: 2018 - present
   - course: BSc in Computer Science and Technology
     institution: Xidian University
     # url: "https://www.xidian.edu.cn/"
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/flyingtango
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
