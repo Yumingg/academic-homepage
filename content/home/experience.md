@@ -25,11 +25,6 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2018-06-01"
   description = ""
-  <!-- description = """
-  * Developed an indoor navigation system based on machine learning and multi-sensor detection.
-  * Implemented Android client to collect Bluetooth, WiFi and magnetic field data to generate data fingerprint.
-  * Developed machine learning back-end for matching fingerprint with locations and tracking.
-  """ -->
 
 [[experience]]
   title = "Research Intern"
@@ -39,10 +34,5 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = "2017-03-31"
   description = ""
-  <!-- description = """
-  * Learned in the DATES lab to combine numerical methods with wafer/chip testing.
-  * Explored ways to accurately predict the spatial variation of a wafer/chip by measuring very few test structures.
-  * Developed a Virtual Probe algorithm using Matlab to find minimum cost and analyze silicon characterization of Nanoscale IC at a set of selected locations.
-  """ -->
 
 +++
