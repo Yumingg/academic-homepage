@@ -10,6 +10,9 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Digraph Inception Convolutional Networks"
+  image: ""
+header:
+  caption: "Campus3D: A Photogrammetry Point Cloud Benchmark for Hierarchical Understanding of Outdoor Scene"
   image: ""
 ---
