@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "files/digcn_nips.pdf"
-url_code:
+url_code: https://github.com/flyingtango/DiGCN
 url_dataset:
 url_poster:
 url_project:

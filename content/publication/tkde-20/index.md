@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2002.02318.pdf
+url_pdf: "files/TKDE_2020.pdf"
 url_code:
 url_dataset:
 url_poster:

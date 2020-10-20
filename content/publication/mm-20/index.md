@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2008.04968
+url_pdf: "files/CampusNet_MM20.pdf"
 url_code: https://github.com/shinke-li/Campus3D
 url_dataset: https://3d.dataset.site
 url_poster:
