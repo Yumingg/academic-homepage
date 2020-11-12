@@ -39,7 +39,7 @@ featured: false
 url_pdf: "files/digcn_nips.pdf"
 url_code: https://github.com/flyingtango/DiGCN
 url_dataset:
-url_poster:
+url_poster: "files/digcn_poster.pdf"digcn_poster
 url_project:
 url_slides:
 url_source:
