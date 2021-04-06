@@ -66,6 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Apr. 2021: Invited as a reviewer for NeurIPS 2021.
 - Mar. 2021: One paper was accepted by CVPR 2021.
 - Feb. 2021: Invited as a reviewer for ICML 2021.
 - Dec. 2020: Invited as a reviewer for CVPR 2021.
