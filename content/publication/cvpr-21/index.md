@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/ramoe_cvpr.pdf"
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
