@@ -66,6 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- May. 2021: One paper was accepted by IJCAI 2021.
 - Apr. 2021: Invited as a reviewer for NeurIPS 2021.
 - Mar. 2021: One paper was accepted by CVPR 2021.
 - Feb. 2021: Invited as a reviewer for ICML 2021.
