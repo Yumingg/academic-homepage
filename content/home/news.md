@@ -66,6 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Jul. 2021: Two papers were accepted by ICCV 2021.
 - Jun. 2021: Invited as a reviewer for ICLR 2021.
 - May. 2021: Invited as a reviewer for TPAMI.
 - May. 2021: One paper was accepted by IJCAI 2021.
