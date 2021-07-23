@@ -18,12 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Machine Learning
+- Computer Vision (2D & 3D)
 - Graph Neural Network
-- 3D Point Cloud
 - Spatio-temporal Data
 
 education:
@@ -70,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year PhD student in School of Engineering at [National University of Singapore](http://nus.edu.sg), supervised by Prof. [Andrew Lim](https://www.limandrew.org) and Prof. [Chee Yeow Meng](https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ). I received my B.E. degree from the School of Computer Science and Technology, [Xidian University](http://en.xidian.edu.cn) in 2018. While completing several innovative projects, I have also published several papers in recommended journals and conferences, such as TKDE, CVPR, ACM MM and NeurIPS. 
+I am a fourth-year PhD student in School of Engineering at [National University of Singapore](http://nus.edu.sg), supervised by Prof. [Andrew Lim](https://www.limandrew.org) and Prof. [Chee Yeow Meng](https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ). I received my B.E. degree from the School of Computer Science and Technology, [Xidian University](http://en.xidian.edu.cn) in 2018. While completing several innovative projects, I have also published several papers in recommended journals and conferences, such as ICCV, TKDE, CVPR, ACM MM and NeurIPS. 
 
 My research interests lie in graph neural networks, 3d point cloud and spatio-temporal data mining. If you are interested in my research, please feel free to contact me!
