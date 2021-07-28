@@ -75,7 +75,7 @@ subtitle = ""
 - Mar. 2021: One paper was accepted by CVPR 2021.
 - Feb. 2021: Invited as a reviewer for ICML 2021.
 - Dec. 2020: Invited as a reviewer for CVPR 2021.
-- Sept. 2020: One paper was accepted by NeurIPS 2020.
+- Sep. 2020: One paper was accepted by NeurIPS 2020.
 - Aug. 2020: One paper was accepted by ACM MM 2020.
 - Jul. 2020: One paper was accepted by TKDE.
 
