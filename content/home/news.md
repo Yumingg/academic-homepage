@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Jul. 2021: One paper was accepted by Trans. on Image Processing.
+- Jul. 2021: One paper was accepted by TIP.
 - Jul. 2021: Two papers were accepted by ICCV 2021.
 - Jun. 2021: Invited as a reviewer for ICLR 2021.
 - May. 2021: Invited as a reviewer for TPAMI.
@@ -77,5 +77,5 @@ subtitle = ""
 - Dec. 2020: Invited as a reviewer for CVPR 2021.
 - Sept. 2020: One paper was accepted by NeurIPS 2020.
 - Aug. 2020: One paper was accepted by ACM MM 2020.
-- Jul. 2020: One paper was accepted by Trans. on Knowledge and Data Engineering.
+- Jul. 2020: One paper was accepted by TKDE.
 
